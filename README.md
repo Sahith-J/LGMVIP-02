@@ -33,7 +33,7 @@ Clone the repository or download the source code files.
 
 2. Players take turns clicking on empty buttons to place their symbols.
 
-3.The first player is assigned the symbol "X," and the second player is assigned the symbol "O."
+3. The first player is assigned the symbol "X," and the second player is assigned the symbol "O."
 
 4. The game will automatically detect and display the winner or a tie.
 
